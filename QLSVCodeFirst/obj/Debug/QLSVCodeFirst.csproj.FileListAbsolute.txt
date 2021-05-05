@@ -1,0 +1,15 @@
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\bin\Debug\QLSVCodeFirst.exe.config
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\bin\Debug\QLSVCodeFirst.exe
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\bin\Debug\QLSVCodeFirst.pdb
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\bin\Debug\EntityFramework.dll
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\bin\Debug\EntityFramework.xml
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\obj\Debug\QLSVCodeFirst.csprojAssemblyReference.cache
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\obj\Debug\QLSVCodeFirst.Form1.resources
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\obj\Debug\QLSVCodeFirst.Properties.Resources.resources
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\obj\Debug\QLSVCodeFirst.csproj.GenerateResource.cache
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\obj\Debug\QLSVCodeFirst.csproj.CoreCompileInputs.cache
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\obj\Debug\QLSVCodeFirst.csproj.CopyComplete
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\obj\Debug\QLSVCodeFirst.exe
+D:\Code\C#\Winform\Entity_Framework\QLSVCodeFirst\QLSVCodeFirst\obj\Debug\QLSVCodeFirst.pdb
